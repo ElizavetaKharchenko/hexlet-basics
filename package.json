@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/anka1928/hexlet-basics/issues"
   },
-  "homepage": "https://github.com/anka1928/hexlet-basics#readme"
+  "homepage": "https://github.com/anka1928/hexlet-basics#readme",
+  "dependencies": {
+    "lodash": "^4.17.5"
+  }
 }
